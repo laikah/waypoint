@@ -1,7 +1,7 @@
 title: Prevent Wheel Reinvention
 curator: Reika Chavers
 
-summary: Master curation at Unacademic and become an expert
+summary: Master curation at Offcourse and become an expert
 
 description: |
   How many wheels have you had to reinvent already? Our guess would be 'too
@@ -15,9 +15,9 @@ description: |
 checkpoints:
   - title: Structure your Story
     introduction: |
-      Learning and curation at Unacademic are built around waypoints. Think of
+      Learning and curation at Offcourse are built around waypoints. Think of
       them as narratives. Like every good story, they need a structure: a
-      beginning, an end, and exciting events. At Unacademic events are called 
+      beginning, an end, and exciting events. At Offcourse events are called 
       checkpoints. You use them to contextualize the resources you want to share. 
       Learners use checkpoints to track their progress within your story.
 
@@ -114,10 +114,10 @@ checkpoints:
         tags:
           - internet archive
         type: tool
-        notes: This tool let's you view websites of the past
+        notes: This tool lets you view websites of the past
   - title: Explain the Relevance
     introduction: |
-      Some references are not enough to get to an understanding 
+      Some references are not enough to get an understanding 
       of a theme or subject, so elaborate on why they might be relevant, 
       add introductions and highlight certain critical aspects 
       of the reference.
