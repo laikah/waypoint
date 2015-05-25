@@ -19,7 +19,7 @@ checkpoints:
       says Ken Robinson in his TED Talk “How Schools Kill Creativity”. 
       Yet there are so many ways to learn from so many different people.
 
-      instructions: 
+    instructions: 
         - (re)define your view on intelligence and teachers vs. students
       resources: 
       - author: Ken Robinson
@@ -61,7 +61,7 @@ checkpoints:
       We’re wrong 50% of the time, we just don’t know which 50%. 
       Start loving to be wrong.
 
-      instruction: 
+    instruction: 
         - watch these movies and learn about the science behind being wrong
       resources: 
       - author: Nishant Kothary
@@ -103,7 +103,7 @@ checkpoints:
       there are many other virtues that may suit you better. 
       Use this checkpoint to explore and choose your virtues.
 
-      instruction: 
+    instruction: 
         - choose your virtues
       resources: 
         - author: Larry Wall
@@ -173,7 +173,7 @@ checkpoints:
       shipping fast and often to learning and use the feedback 
       to improve your projects.
 
-      instruction: 
+    instruction: 
         - launch or test a project 
       resources: 
         - author: Ricky Robinett
@@ -213,7 +213,7 @@ checkpoints:
       there’s only one thing left to do. Dwell. 
       Here are some tools to get you started
 
-      instruction: 
+    instruction: 
         - start dwelling
       resources: 
         - author: James Joyce
