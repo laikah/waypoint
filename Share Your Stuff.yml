@@ -10,7 +10,7 @@ description: |
   Input does not necessarily mean to write and 
   compile a waypoint yourself.You also contribute 
   by rating and reviewing the material you have 
-  just consumed by doing so, you actually enable 
+  just consumed. By doing so, you actually enable 
   your learning process and become an active member 
   of a vital community. 
 
@@ -160,3 +160,15 @@ checkpoints:
           - dan harmon
           - learning
           - college
+        title: Collaborative Learning, Group Work
+        url:"http://www.cte.cornell.edu/teaching-ideas/engaging-students/collaborative-learning.html"
+        clarity: 5
+        difficulty: 3
+        up_to_date: 4
+        pertinence: 3
+        enjoyment: 3
+        time_to_digest: 5 min
+        tags:
+          - collaborative 
+          - group work
+          - learning
